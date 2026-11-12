@@ -1,0 +1,57 @@
+{
+    "atm_cash": 500000,
+    "next_id": 1,
+    "users": {
+        "user01": {
+            "password_hash": "wyk0n1du5n$2f6f5599eaf6b259bc33b5a617544576684b8a2ec52b32b9ad8d7711b53209a0",
+            "account_number": "10010001",
+            "balance": 250000,
+            "blocked": false,
+            "failed_attempts": 0,
+            "lockout_until": 0,
+            "last_login": "2026-11-12 01:03:01",
+            "last_transaction": "",
+            "daily": {
+                "date": "2026-11-12",
+                "deposit_total": 0,
+                "withdraw_total": 0,
+                "transfer_count": 0
+            },
+            "history": []
+        },
+        "user02": {
+            "password_hash": "7hdkcbwlwv$d351f16aa56dfe361b1372fb6a0b50ab201adfd4463bf7d7fb718c62aae9b264",
+            "account_number": "10010002",
+            "balance": 150000,
+            "blocked": false,
+            "failed_attempts": 0,
+            "lockout_until": 0,
+            "last_login": "",
+            "last_transaction": "",
+            "daily": {
+                "date": "2026-11-11",
+                "deposit_total": 0,
+                "withdraw_total": 0,
+                "transfer_count": 0
+            },
+            "history": []
+        },
+        "user03": {
+            "password_hash": "r333824g6j$a575aff84a15bb3364eae12afe984dad4221e564f3da3db9ce87fbc3d37af59f",
+            "account_number": "10010003",
+            "balance": 300000,
+            "blocked": false,
+            "failed_attempts": 0,
+            "lockout_until": 0,
+            "last_login": "",
+            "last_transaction": "",
+            "daily": {
+                "date": "2026-11-11",
+                "deposit_total": 0,
+                "withdraw_total": 0,
+                "transfer_count": 0
+            },
+            "history": []
+        }
+    }
+}
